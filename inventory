@@ -1,4 +1,4 @@
-xjosh1@192.168.124.148
-xjosh2@192.168.124.13
-xjosh3@192.168.124.54
+xjosh1@192.168.124.148 apache_package=apache2 php_package=libapache2-mod-php 
+xjosh2@192.168.124.13 apache_package=apache2 php_package=libapache2-mod-php
+xjosh3@192.168.124.54 apache_package=apache2 php_package=libapache2-mod-php
 
